@@ -1,2 +1,1 @@
-# RepositorioHenry
-HomeWork 02
+Creando Repositorio en GitHub - HW02
